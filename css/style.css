@@ -18,3 +18,21 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+	padding-bottom: 10px;
+	margin: 0 0 5px;
+	font-size: 5em;
+	font-weight: normal;
+	font-family: 'baskerville', serif;
+	color: rgb(152, 173, 166);
+	border-bottom: 1 solid #ccc;
+}
+h1 a {
+	color: rgb(152, 173,166);
+	text-decoration: none;
+}
+
+a {
+	background: transparent;
+}
